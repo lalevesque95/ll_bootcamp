@@ -1,2 +1,3 @@
-# ll_bootcamp
-My Respository for Intro to Programming for BIO 2020
+# jb_bootcamp
+
+Utilities for use in the Introduction to Programming in the Biological Sciences Bootcamp.
